@@ -10,5 +10,6 @@ python auto_minesweeper.py
 ```
 
 說明：
+- 請執行 `(Main)auto_minesweeper_gui` 可看到結果
 - 檔案 `auto_minesweeper.py` 包含遊戲引擎與自動求解器（簡單邏輯 + 隨機猜測）。
 - 可修改遊戲大小與地雷數量：在 `if __name__ == '__main__'` 區塊中調整 `w, h, mines`。
